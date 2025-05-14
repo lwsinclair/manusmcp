@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mantrakp04-manusmcp-badge.png)](https://mseep.ai/app/mantrakp04-manusmcp)
+
 # ManusMCP
 
 An AI agent framework using Flowise to deploy AI team members with specialized capabilities.
